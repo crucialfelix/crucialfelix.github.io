@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Super Collider
-tagline: Real time algorithmic composition environment.
+title: crucialfelix
+tagline: Python, SuperCollider, Node
 ---
 {% include JB/setup %}
 
-http://supercollider.sourceforge.net/
 
