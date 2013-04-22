@@ -1,2 +1,8 @@
 _site
-
+Gemfile.lock
+*.gem
+*.swp
+*~
+.bundle/
+.DS_Store
+gh-pages/
