@@ -4,6 +4,10 @@
 
 /* elements */
 
+body:before {
+    @include top-shadow($height: 1em, $color: rgba(0,0,0,.1));
+}
+
 a {
     font-weight: bold;
     color: #38530f;
