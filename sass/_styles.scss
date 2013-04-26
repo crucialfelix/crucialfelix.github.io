@@ -92,16 +92,24 @@ footer {
 }
 
 /* code highlighting */
-/* overide bootstrap box */
 pre {
-    background-color: inherit;
-    border: 0;
+    ::-webkit-scrollbar {
+        width: 12px;
+    }
+    ::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+        background: #ddd;
+    }
+    ::-webkit-scrollbar-thumb {
+        /*-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);*/
+        background: #888;
+    }
 }
 pre code {
-    padding: 1em;
     overflow-x: auto;
-    background: #fdfdfc;
-    @include box-shadow(#{inset 0 0 8px rgba(0, 0, 0, 0.115)});
+    /*background: #fdfdfd;*/
+    /*@include box-shadow(#{inset 0 0 8px rgba(0, 0, 0, 0.115)});*/
+    @include box-shadow(#{0px 0px 8px rgba(50, 50, 50, 0.5)});
 }
 
 
