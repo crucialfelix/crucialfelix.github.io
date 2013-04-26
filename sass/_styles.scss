@@ -1,5 +1,6 @@
 
 @import "compass/css3/box-shadow";
+@import "recipes";
 
 /* elements */
 h1,h2,h3,h4,h5,h6 {
@@ -89,6 +90,24 @@ a.brand img {
 
 footer {
     font-size: 11px;
+    padding-bottom: 1em;
+    @include background-carbon-fiber($spacing-size: 6px, $dot-color: #333);
+    .author-card {
+        padding: 10px;
+        img {
+            width: 100px;
+            height: 100px;
+            margin-right: 2em;
+        }
+        h5, a {
+            color: #bbb;
+            /*@include text-shadow(#{0px 0px 1px rgba(200, 200, 200, 0.5)});*/
+        }
+        h5 {
+            font-size: $baseFontSize;
+            margin: 0;
+        }
+    }
 }
 
 /* code highlighting */
