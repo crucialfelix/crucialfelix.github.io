@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: ["README.md", "Rakefile", "sass", "node_modules", "components"]
 auto: true
-pygments: true
+pygments: false
 
 #
 title: crucialfelix
