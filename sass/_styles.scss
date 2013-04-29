@@ -26,6 +26,10 @@ ul.nodot, li.nodot {
     margin-left: 0;
 }
 
+p {
+    margin-bottom: $baseLineHeight;
+}
+
 /* default page structure */
 .navbar {
     text-rendering: optimizelegibility;
