@@ -60,7 +60,7 @@ $textColor:             $grayDark !default;
 
 // Links
 // -------------------------
-$linkColor:             #67373d !default;
+$linkColor:             $grayDarker;
 $linkColorHover:        darken($linkColor, 15%) !default;
 
 
