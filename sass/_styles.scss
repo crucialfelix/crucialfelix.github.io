@@ -52,6 +52,15 @@ p {
     /*font-size: 26px;*/
     /*font-weight: bold;*/
 /*}*/
+.navbar a.brand {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #666;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
 a.brand img {
     vertical-align: baseline;
 }
