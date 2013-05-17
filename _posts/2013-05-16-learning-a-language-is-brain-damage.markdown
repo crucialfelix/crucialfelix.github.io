@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Learning a language is like brain damage"
+title: Learning a language is like brain damage
+categories: clojure
 published: true
 ---
 
