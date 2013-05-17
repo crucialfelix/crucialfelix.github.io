@@ -44,7 +44,7 @@ reduce the array "text" using the function counter and initial value empty dict 
 
 You'll need to know basics like [if-let](http://clojuredocs.org/clojure_core/clojure.core/if-let) [assoc](http://clojuredocs.org/clojure_core/clojure.core/assoc) [get](http://clojuredocs.org/clojure_core/clojure.core/get) [reduce](http://clojuredocs.org/clojure_core/clojure.core/reduce).
 
-{% highlight pseudocode %}
+{% highlight clojure %}
 if-let means let c = maybe something
    and do this it is something
    and if it ain't then do this
@@ -71,7 +71,7 @@ This is a very clojuresque way of doing it.  For this you need to know about usi
 
 The next stage is knowing the core library enough that in the real world you would just use that:
 
-{% highlight cloujure %}
+{% highlight clojure %}
 ;; clojure/core function
 (frequencies text)
 {% endhighlight %}
