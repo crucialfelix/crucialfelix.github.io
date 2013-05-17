@@ -7,7 +7,9 @@ tags: []
 ---
 {% include JB/setup %}
 
-Writing code is a much more effective way to learn than just reading it. I tend to gorge myself on information and reading.
+Writing code is a much more effective way to learn than just reading it. I tend to gorge myself on information and reading.  Then I go to write or start a project and I realize I don't know some basic syntax form.
+
+1 hour in the REPL is worth (some made up number) reading blogs.
 
 In the last years I've been doing a lot of Python, JavaScript and some SuperCollider.  Clojure is a Lisp, and it uses a lot of functional programming idioms. Merely reading code examples doesn't really get them into the brain enough.
 
@@ -79,4 +81,3 @@ The killer feature for the learning phase is that you can see the results of you
 [Light Table](http://www.chris-granger.com/lighttable/)
 
 But for real work its near impossible to beat a well set up Emacs environment.
-

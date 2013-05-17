@@ -92,7 +92,7 @@ task :page do
 end # task :page
 
 desc "Run local preview server"
-task :local do
+task :default do
   system "jekyll --auto --server"
 end # task :preview
 
@@ -113,4 +113,3 @@ end
 
 #Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }
-
