@@ -1,6 +1,2 @@
-
-
-Super Collider github pages
-===========================
-
-
+crucialfelix github blog
+========================
