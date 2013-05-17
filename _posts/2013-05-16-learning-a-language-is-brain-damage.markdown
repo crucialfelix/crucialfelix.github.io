@@ -3,6 +3,7 @@ layout: post
 title: "Learning a language is like brain damage"
 published: true
 ---
+
 As of late I've been learning Clojure. Its a joy to use, the brevity and feeling of encapsulating power is splendid, but the shape and flow of Lisp forms takes some getting used to.  "Reading Lisp forms" is a practice that needs to be practiced.
 
 So first my brain needs to be loaded up with all these common constructs and patterns of usage.  Alien things that need to be consumed till they are taken for granted.  In a way this is brain damage - your habit mind knows one pathway, and you are asking it to behave in an alien fashion.

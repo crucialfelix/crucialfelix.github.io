@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Learn by writing in the REPL"
-description: ""
 category: clojure
-tags: []
 ---
-{% include JB/setup %}
 
 Writing code is a much more effective way to learn than just reading it. I tend to gorge myself on information and reading.  Then I go to write or start a project and I realize I don't know some basic syntax form.
 
