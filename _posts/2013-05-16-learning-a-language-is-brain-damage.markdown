@@ -5,15 +5,15 @@ categories: clojure
 published: true
 ---
 
-As of late I've been learning Clojure. Its a joy to use, the brevity and feeling of encapsulating power is splendid, but the shape and flow of Lisp forms takes some getting used to.  "Reading Lisp forms" is a practice that needs to be practiced.
+As of late I've been learning Clojure. Its a joy to use&mdash;the brevity and power of encapsulating  is splendid&mdash;but the shape and flow of Lisp forms takes some getting used to.  "Reading Lisp forms" is a practice that needs to be practiced.
 
-So first my brain needs to be loaded up with all these common constructs and patterns of usage.  Alien things that need to be consumed till they are taken for granted.  In a way this is brain damage - your habit mind knows one pathway, and you are asking it to behave in an alien fashion.
+So first my brain needs to be loaded up with all these common constructs and patterns of usage.  Alien things that need to be consumed till they are taken for granted.  In a way this is brain damage &mdash; your habit mind knows one pathway, and you are asking it to behave in an alien fashion.
 
 Asking yourself to change is always a form of self-abnegation.  You are often telling yourself that you are wrong, that you don't get it, that "you" are somehow deficient. This is a fallacy based on self-identifying with your knowledge and your habits. You are not your habits. You are not your memories. You are not your fucking Khakis etc.  All these things are mutable &mdash; unlike Clojure data structures.
 
 Of course its not actually brain damage.  In fact learning (natural) languages has been shown to increase the size of the hippocamus, increase synapse connections leading to a "bigger brain" (will I need to purchase a new casing soon?)
 
-The stress of writing new pathways just feels like brain damange.  I can even feel the physical sensation as my brain squirms around trying to put (+ 2 2) together.  Possibly its also the challenge to your self esteem.  "You" don't know this, "you" suck.
+The stress of writing new pathways just feels like brain damange.  I can even feel the physical sensation as my brain squirms around trying to put (+ 2 2) together.  Possibly its also the challenge to your self esteem.  "You" don't know this, "you" are deficient.
 
 I've found that in periods in my life where I had a very quiet non-invasive ego that I learned much faster. I felt more intelligent and I solved problems easier.  Being hung up on the personal cartoon character is like having a rogue process.  You need to shut it down or quiet it down, and then the system runs much smoother.  Being self-judgemental is useless.
 

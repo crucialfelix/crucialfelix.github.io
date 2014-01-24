@@ -4,7 +4,6 @@ title: Learn by writing in the REPL
 categories: clojure
 published: true
 ---
-
 Writing code is a much more effective way to learn than just reading it. I tend to gorge myself on information and reading.  Then I go to write or start a project and I realize I don't know some basic syntax form.
 
 1 hour in the REPL is worth (some made up number) reading blogs.
