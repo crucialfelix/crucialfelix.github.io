@@ -8,3 +8,6 @@ Gemfile.lock
 gh-pages/
 node_modules/
 components
+build
+
+.sass-cache/
