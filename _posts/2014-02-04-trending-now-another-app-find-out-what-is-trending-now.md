@@ -26,7 +26,7 @@ I've simplified this discussion to the buzzword "trending", but your feeds (from
 
 <blockquote>"the suspicion arises that technical innovations only refer and answer to each other, and the end result of this proprietry development, which progresses completely independant of individual or even collective bodies of people, is an overwhelming impact on senses and organs in general" - Friedrich Kittler, Optical Media</blockquote>
 
-We need to examine carefully the goal definitions and performance measures for the agents we build.  Because we are what we consume, so by extension we are building ourselves.
+We need to examine carefully the goal definitions and performance measures for the agents we build.  Because we are what we consume, so by extension we are building ourselves.  Then, as Kittler says, what we built impacts us.  Or deeper yet, we are not really in absolute control of this building process, we are just following the inevitable paths of technlogy.
 
 ![tachikoma](/images/tachikoma.jpg)
 
