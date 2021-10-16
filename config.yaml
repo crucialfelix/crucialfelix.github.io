@@ -41,8 +41,8 @@ languages:
     menu:
       main:
       - identifier: about
-        name: Posts
-        url: /
+        name: about
+        url: /about
       # - identifier: showcase
       #   name: Showcase
       #   url: /showcase
