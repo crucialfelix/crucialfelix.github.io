@@ -40,6 +40,9 @@ languages:
 
     menu:
       main:
+      - identifier: posts
+        name: posts
+        url: /posts
       - identifier: about
         name: about
         url: /about
